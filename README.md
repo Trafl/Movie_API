@@ -71,3 +71,6 @@ Finally, run the Django development server:
 ```bash
 python manage.py runserver
 ```
+
+### Postman Collection Documentation
+- [https://documenter.getpostman.com/view/25729709/2sAXqnej4C](https://documenter.getpostman.com/view/25729709/2sAY4vi3ch)
